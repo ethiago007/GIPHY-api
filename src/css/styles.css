@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: antiquewhite;
+
+}
+.showSticker {
+  text-align: center;
+  align-items: center;
+}
+.warning {
+  color: black;
+  display: none;
+}
